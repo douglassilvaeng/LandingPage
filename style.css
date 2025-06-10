@@ -1,0 +1,9 @@
+.foto-perfil {
+  display: block;             /* Centraliza horizontalmente */
+  margin: 0 auto 2rem auto;   /* Espaçamento inferior */
+  width: 200px;               /* Largura padrão */
+  max-width: 100%;            /* Evita ultrapassar o limite da tela */
+  height: auto;               /* Mantém a proporção da imagem */
+  border-radius: 12px;        /* (Opcional) Cantos arredondados */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* (Opcional) Sombra elegante */
+}
